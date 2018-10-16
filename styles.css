@@ -168,7 +168,7 @@ button:hover {
         font-size: 1.3em;
     }
     .question-container {
-        padding: 60px 40px;
+        padding: 40px;
     }
     #question {
         height: 350px;
@@ -210,7 +210,7 @@ button:hover {
         padding: 25px;
     }
     .question-container {
-        padding: 60px 0;
+        padding: 40px 0;
     }
     .quiz-nav a {
         width: 50px;
