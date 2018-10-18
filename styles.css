@@ -237,9 +237,11 @@ button:hover {
     .quiz-nav a {
         width: 35px;
     }    
-
+    .question-container {
+        width: 200px;
+    }
     #question {
-        padding: 10px 15px;
+        padding: 10px 10px;
     }
 }
 

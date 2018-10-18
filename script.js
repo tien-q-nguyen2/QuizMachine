@@ -6,24 +6,24 @@ questions.push(
     '<p>&lt;form id="myForm" name="yourForm"&gt;</p>'+
     '<p>&nbsp;&nbsp;&nbsp;&nbsp;&lt;input type="email" id="email" name="myText"&gt;</p>'+
     '<p>&lt;/form&gt;</p>'+
-    '<p>document._____ (Fill in the blank)</p>'+
+    '<p>document.__.value; (Fill in the blank)</p>'+
     '<div>'+
-    '    <label>myForm.email.value;'+
+    '    <label>myForm.email'+
     '        <input type="radio" id="opt1" name="quiz" value="opt1">'+
     '    </label>'+
     '</div>'+
     '<div>'+
-    '    <label>yourForm.email.value;'+
+    '    <label>yourForm.email'+
     '        <input type="radio" id="opt2" name="quiz" value="opt2">'+
     '    </label>'+
     '</div>'+
     '<div>'+
-    '    <label>yourForm.myText.value;'+
+    '    <label>yourForm.myText'+
     '        <input type="radio" id="opt3" name="quiz" value="opt3">'+
     '    </label>'+
     '</div>'+
     '<div>'+
-    '    <label>myForm.myText.value;'+
+    '    <label>myForm.myText'+
     '        <input type="radio" id="opt4" name="quiz" value="opt4">'+
     '    </label>'+
     '</div>'
